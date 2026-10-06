@@ -16,3 +16,8 @@ ffplay*
 debug
 exp_out
 .gradio
+# Rust artifacts
+target/
+coverage_report/
+lcov.info
+
